@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+#voiceflow-chat-widget {
+    position: fixed !important;
+    bottom: 20px !important;
+    right: 20px !important;
+    z-index: 9999 !important;
+    max-height: 120vh !important;
+    overflow: hidden !important;
+  }
+  
+  #voiceflow-chat-widget iframe {
+    max-height: 120vh !important;
+    width: 370px !important;
+    border-radius: 12px !important;
+  }
+  
