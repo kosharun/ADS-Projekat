@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b7a3a172-6306-4355-97b7-41d02b9c8582" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kosharun&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/kosharun/internship-hako.git&quot;,
+    &quot;accountId&quot;: &quot;f4f32cf5-f849-4524-97c5-19245a04ee92&quot;
+  }
+}</component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\xampp\php\php.exe" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2s5HXAbwQztTFWTgrPs72E2vl1e" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.OrderManagementApplication.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.OrderItemServiceTests.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.OrderItemServiceTests.testFindOrderItemsRelatedToProduct_ShouldReturnListOfDTOS.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.OrderManagementApplicationTests.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.OrderServiceTests.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.OrderStatusServiceTests.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ProductServiceTests.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ProductServiceTests.testCreateProduct_ShouldCreateProduct.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RoleServiceTests.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RoleServiceTests.getRoleTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserRepositoryTests.UserRepository_IsNotNull.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserRepositoryTests.UserRepository_Save_ReturnSavedUser.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserRepositoryTests.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserServiceTests.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.service in order-management.executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;Spring Boot.OrderManagementApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/kosharun/Desktop/ADS-Projekat/order-management&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.annotationProcessors&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kosharun\Desktop\internship_hako" />
+      <recent name="C:\Users\kosharun\Desktop\internship_hako\order-management" />
+      <recent name="C:\Users\kosharun\Desktop\internship_hako\order-management\src\test\java\resources" />
+      <recent name="C:\Users\kosharun\Desktop\internship_hako\Docs" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.OrderManagementApplication">
+    <configuration name="OrderItemServiceTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="order-management" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bitconex.order_management.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bitconex.order_management.service" />
+      <option name="MAIN_CLASS_NAME" value="com.bitconex.order_management.service.OrderItemServiceTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderManagementApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="order-management" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bitconex.order_management.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bitconex.order_management" />
+      <option name="MAIN_CLASS_NAME" value="com.bitconex.order_management.OrderManagementApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderStatusServiceTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="order-management" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bitconex.order_management.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bitconex.order_management.service" />
+      <option name="MAIN_CLASS_NAME" value="com.bitconex.order_management.service.OrderStatusServiceTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserRepositoryTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="order-management" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bitconex.order_management.repository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bitconex.order_management.repository" />
+      <option name="MAIN_CLASS_NAME" value="com.bitconex.order_management.repository.UserRepositoryTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="service in order-management" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="order-management" />
+      <option name="TEST_OBJECT" value="directory" />
+      <dir value="$PROJECT_DIR$/src/test/java/com/bitconex/order_management/service" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderManagementApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="order-management" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bitconex.order_management.OrderManagementApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.service in order-management" />
+        <item itemvalue="JUnit.UserRepositoryTests" />
+        <item itemvalue="JUnit.OrderManagementApplicationTests" />
+        <item itemvalue="JUnit.OrderStatusServiceTests" />
+        <item itemvalue="JUnit.OrderItemServiceTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.23654.153" />
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-IU-243.23654.153" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7a3a172-6306-4355-97b7-41d02b9c8582" name="Changes" comment="" />
+      <created>1737738552982</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737738552982</updated>
+      <workItem from="1737738554243" duration="908000" />
+      <workItem from="1737810480212" duration="45000" />
+      <workItem from="1737810674436" duration="5551000" />
+      <workItem from="1737904259858" duration="5025000" />
+      <workItem from="1738021466749" duration="142000" />
+      <workItem from="1738021872721" duration="6879000" />
+      <workItem from="1738070367330" duration="7875000" />
+      <workItem from="1738173196811" duration="588000" />
+      <workItem from="1738192901206" duration="2386000" />
+      <workItem from="1738198293380" duration="1778000" />
+      <workItem from="1738256347148" duration="296000" />
+      <workItem from="1738256662120" duration="3593000" />
+      <workItem from="1738313648315" duration="5185000" />
+      <workItem from="1738501874414" duration="6189000" />
+      <workItem from="1738531862526" duration="58000" />
+      <workItem from="1738602884123" duration="7248000" />
+      <workItem from="1738620703886" duration="887000" />
+      <workItem from="1738621612910" duration="322000" />
+      <workItem from="1738683103586" duration="1409000" />
+      <workItem from="1738766866337" duration="2846000" />
+      <workItem from="1738769834729" duration="3398000" />
+      <workItem from="1738775496293" duration="14522000" />
+      <workItem from="1738947923396" duration="13195000" />
+      <workItem from="1739129383553" duration="3508000" />
+      <workItem from="1739272159267" duration="8202000" />
+      <workItem from="1739384167018" duration="4998000" />
+      <workItem from="1739449457052" duration="4812000" />
+      <workItem from="1739454308737" duration="65000" />
+      <workItem from="1739632518410" duration="6513000" />
+      <workItem from="1739709656722" duration="2722000" />
+      <workItem from="1739712397095" duration="411000" />
+      <workItem from="1739712824897" duration="1304000" />
+      <workItem from="1739777877007" duration="6351000" />
+      <workItem from="1739888921857" duration="9589000" />
+      <workItem from="1739978022698" duration="1503000" />
+      <workItem from="1740044195187" duration="11559000" />
+      <workItem from="1740554626727" duration="3308000" />
+      <workItem from="1740559721017" duration="1201000" />
+      <workItem from="1740666565468" duration="1895000" />
+      <workItem from="1740737076564" duration="1700000" />
+      <workItem from="1740878457894" duration="3831000" />
+      <workItem from="1740961343570" duration="4101000" />
+      <workItem from="1741101553572" duration="2098000" />
+      <workItem from="1741106232198" duration="882000" />
+      <workItem from="1741220957369" duration="3895000" />
+      <workItem from="1741263465238" duration="2607000" />
+      <workItem from="1741706726914" duration="2116000" />
+      <workItem from="1742777002333" duration="4861000" />
+      <workItem from="1742829077137" duration="1789000" />
+      <workItem from="1743495320257" duration="2653000" />
+      <workItem from="1743550235331" duration="997000" />
+      <workItem from="1743684526961" duration="1303000" />
+      <workItem from="1743685855819" duration="3923000" />
+      <workItem from="1743689815263" duration="764000" />
+      <workItem from="1743834442074" duration="1637000" />
+      <workItem from="1743839610090" duration="4392000" />
+      <workItem from="1743853409881" duration="1275000" />
+      <workItem from="1744038689579" duration="1180000" />
+      <workItem from="1744229121395" duration="3228000" />
+      <workItem from="1744293897631" duration="1405000" />
+      <workItem from="1744301549729" duration="1555000" />
+      <workItem from="1744834258455" duration="2523000" />
+      <workItem from="1745240576960" duration="10260000" />
+      <workItem from="1745362238221" duration="4115000" />
+      <workItem from="1745495174839" duration="873000" />
+      <workItem from="1745496810407" duration="213000" />
+      <workItem from="1745718410446" duration="32000" />
+      <workItem from="1748643118881" duration="211000" />
+      <workItem from="1748713640624" duration="329000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint type="java-exception">
+          <properties class="java.io.IOException" package="java.io" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
